@@ -1,0 +1,77 @@
+@charset "utf-8";
+div section article {
+}
+div {
+    width: 70%;
+    background-color: #d9f1ff;
+    margin-left: 15%;
+}
+body div footer {
+    padding: 5px;
+    text-align: center;
+}
+
+.floatpicright p img {
+    width: 33%;
+    height: auto;
+    padding: 10px;
+    float: right;
+}
+
+
+
+body {
+    background-color: #3d2814;
+}
+body div {
+}
+article {
+    clear: both;
+}
+body p {
+}
+.floatpicleft p img {
+    width: 33%;
+    height: auto;
+    padding: 10px;
+    float: left;
+}
+
+
+
+
+.floatpicright {
+}
+.floatpicleft {
+}
+.floatpicmiddle {
+}
+.floatpicmiddle p {
+    text-align: center;
+}
+.floatpicmiddle p img {
+    width: 33%;
+    height: auto;
+}
+.floatpicright p img {
+    width: 33%;
+    height: auto;
+    float: right;
+}
+.floatpicleft p img {
+    width: 33%;
+    height: auto;
+    float: left;
+}
+.floatpicmiddle p img {
+    width: 33%;
+    padding: 10px;
+    height: auto;
+}
+.floatpicmiddle p {
+    text-align: center;
+}
+.banner img {
+    width: 100%;
+    height: auto;
+}
